@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ArtemMaslovskyi.github.io/Law-service-React/static/css/main.5dd89ac1.css",
+    "main.js": "/ArtemMaslovskyi.github.io/Law-service-React/static/js/main.e93d7b88.js",
+    "static/js/787.d88a4ac3.chunk.js": "/ArtemMaslovskyi.github.io/Law-service-React/static/js/787.d88a4ac3.chunk.js",
+    "static/media/logo.svg": "/ArtemMaslovskyi.github.io/Law-service-React/static/media/logo.f598f0fcdd1e05712191a82097111c6c.svg",
+    "static/media/twitter.svg": "/ArtemMaslovskyi.github.io/Law-service-React/static/media/twitter.9f8c5f98ee30f39c2e45252ca355590c.svg",
+    "static/media/facebook.svg": "/ArtemMaslovskyi.github.io/Law-service-React/static/media/facebook.c097cdbca2091199a2d72fb8cad616e3.svg",
+    "static/media/telegram.svg": "/ArtemMaslovskyi.github.io/Law-service-React/static/media/telegram.bf0dd12265938afe2f07e088d99dae7a.svg",
+    "index.html": "/ArtemMaslovskyi.github.io/Law-service-React/index.html",
+    "main.5dd89ac1.css.map": "/ArtemMaslovskyi.github.io/Law-service-React/static/css/main.5dd89ac1.css.map",
+    "main.e93d7b88.js.map": "/ArtemMaslovskyi.github.io/Law-service-React/static/js/main.e93d7b88.js.map",
+    "787.d88a4ac3.chunk.js.map": "/ArtemMaslovskyi.github.io/Law-service-React/static/js/787.d88a4ac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd89ac1.css",
+    "static/js/main.e93d7b88.js"
+  ]
+}
